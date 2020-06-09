@@ -104,8 +104,8 @@
 	clientAuth="false"
         redirectPort="8443"
         keystoreType="PKCS12"
-        keystoreFile="C:\\IdeaProjects\\TestSSLServer2\\security\\id_rsa.p12" keystorePass="changeit"
-        truststoreType="JKS" truststoreFile="C:\\IdeaProjects\\TestSSLServer2\\security\\jssecacerts"
+        keystoreFile="E:\\IdeaProjects\\TestSSLServer2\\security\\id_rsa.p12" keystorePass="changeit"
+        truststoreType="JKS" truststoreFile="E:\\IdeaProjects\\TestSSLServer2\\security\\jssecacerts"
         truststorePass="changeit"/>
 
 	       
