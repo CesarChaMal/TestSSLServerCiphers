@@ -86,3 +86,12 @@ hs_err_pid*
 # Spring Bootstrap artifacts
 dependency-reduced-pom.xml
 README.html
+
+# Private key material — never commit
+id_rsa
+*.key
+*.pem
+*.p12
+*.pfx
+*.ppk
+known_hosts
